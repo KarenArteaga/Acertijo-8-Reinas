@@ -21,6 +21,11 @@ Marzo 2022
 ## Información general <a name="info"></a> 
 El problema de las 8 reinas tiene como objetivo el poder acomodar 8 reinas en un tablero de ajedrez de manera que no se amenacen entre ellas. El algoritmo utilizado para solucionar el problema de las 8 reinas tenía que permitir que el usuario decidiera la columna en la que se coloca la primera reina . De ahí, con el uso conjuntos y otros conocimientos de la materia Estructura de Datos, la solución tenía que ser representada en una interfaz gráfica donde el usuario podrá visualizar la posición de las demás reinas o en el caso de que no haya solución que le informe al usuario.
 
+# Especificaciones de la implementación
+La dependecia de clases se muestra en el siguiente diagrama UML
+[Uml](https://github.com/KarenArteaga/Acertijo-8-Reinas/files/8306208/Diagrama.UML.pdf)
+
+
 
 ## Tecnologías usadas <a name="tecno"></a> 
 - java 15.0.1 
