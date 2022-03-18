@@ -41,8 +41,7 @@ List the ready features here:
 
 
 ## Capturas de pantalla <a name="capturas"></a> 
-![Interfaz gráfica](<img width="488" alt="Interfaz grafica" src="https://user-images.githubusercontent.com/69361149/159027992-f6fef4bf-f1aa-4bb5-8d1c-c42240d661b6.png">
-)
+![Interfaz gráfica]("https://user-images.githubusercontent.com/69361149/159027992-f6fef4bf-f1aa-4bb5-8d1c-c42240d661b6.png")
 
 
 ## Documentación para replicar <a name="docum"></a> 
