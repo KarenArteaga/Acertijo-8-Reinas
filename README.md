@@ -50,7 +50,7 @@ El problema de las 8 reinas tiene como objetivo el poder acomodar 8 reinas en un
   ![terminal](https://user-images.githubusercontent.com/69361149/159034049-677c6056-b65f-4cc5-af90-9e221ced7051.png)
   3. Usar el comando `javac *.java` para compilar
   4. Usar el comando `java Reinas` para ejecutar el proyecto
-    - Se abrirá la siguiente interfaz gráfica de usuario
+     - Se abrirá la siguiente interfaz gráfica de usuario
     ![Interfaz gráfica](https://user-images.githubusercontent.com/69361149/159027992-f6fef4bf-f1aa-4bb5-8d1c-c42240d661b6.png)
   5. Escribir fila y columna en donde se quiere colocar la primera reina
   6. Dar clic en Calcular para encontrar el lugar de las 7 reinas restantes
@@ -70,6 +70,6 @@ Completado en otoño 2020
 
 
 ## Contacto
-Creado por [Karen Arteaga](https://github.com/KarenArteaga) - sígueme en mis redes sociales como @artekaren
-Documentado por [Alan Vivanco]() - sígueme en mis redes sociales como @alan_vibess
+* Creado por [Karen Arteaga](https://github.com/KarenArteaga) - sígueme en mis redes sociales como @artekaren
+* Documentado por [Alan Vivanco]() - sígueme en mis redes sociales como @alan_vibess
 
