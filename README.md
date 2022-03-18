@@ -1,11 +1,11 @@
-# Acertijo-8-Reinas
+# Acertijo de las ocho reinas
 > Outline a brief description of your project.
 ---
 Versión 1.0
 ---
 Marzo 2022
 
-## Table of Contents
+## Tabla de contenidos
 * [Información general](#info)
 * [Tecnologías uasadas](#tecno)
 * [Funcionalidades](#func)
