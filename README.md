@@ -41,7 +41,11 @@ List the ready features here:
 
 
 ## Capturas de pantalla <a name="capturas"></a> 
-![Interfaz gráfica](https://user-images.githubusercontent.com/69361149/159027992-f6fef4bf-f1aa-4bb5-8d1c-c42240d661b6.png)
+  ### Interfaz gráfica de usuario
+  ![Interfaz gráfica](https://user-images.githubusercontent.com/69361149/159027992-f6fef4bf-f1aa-4bb5-8d1c-c42240d661b6.png)
+  ### Ejemplo de uso 
+  Este es un ejemplo en que el usuario decide colocar la primera reina en la fila 1 y columna 1. 
+  ![Interfaz gráfica](https://user-images.githubusercontent.com/69361149/159029310-737f13ee-d5ad-4f32-b3ac-81b718e38db1.png)
 
 
 ## Documentación para replicar <a name="docum"></a> 
