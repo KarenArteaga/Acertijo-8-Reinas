@@ -23,7 +23,7 @@ El problema de las 8 reinas tiene como objetivo el poder acomodar 8 reinas en un
 
 # Especificaciones de la implementación
 La dependecia de clases se muestra en el siguiente diagrama UML
-[Uml](https://github.com/KarenArteaga/Acertijo-8-Reinas/files/8306208/Diagrama.UML.pdf)
+![UML](https://github.com/KarenArteaga/Acertijo-8-Reinas/files/8306208/Diagrama.UML.pdf)
 
 
 
