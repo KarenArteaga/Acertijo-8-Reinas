@@ -1,5 +1,5 @@
 # Acertijo de las ocho reinas
-> Este proyecto tiene como objetivo solucionar el problema de las ocho reinas por medio de la aplicación de conjuntos en java. La solución se muestra en una interfaz gráfica en la que el usuario inserta las fila y columna de la primera reina. 
+> Este proyecto fue diseñado como proyecto final de la materia de Estructuras de Datos del Instituto Tecnológico Autónomo de México. Tiene como objetivo solucionar el problema de las ocho reinas por medio de la aplicación de conjuntos en java. La solución se muestra en una interfaz gráfica en la que el usuario inserta las fila y columna de la primera reina. 
 ---
 Versión 1.0
 ---
