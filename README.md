@@ -1,6 +1,6 @@
 # Acertijo de las ocho reinas
-> Este proyecto soluciona el problema de las ocho reinas por medio de la aplicación de estructuras de datos en el lenguaje de programación Java versión 15.0.1. La respuesta se muestra en una interfaz gráfica en la que el usuario inserta la fila y columna de la primera reina y el algoritmo encuentra las posiciones de las siete reinas restantes. 
----
+> Solución al problema de las ocho reinas por medio de la aplicación de estructura de datos en Java 15.0.1.
+
 Versión 1.0
 ---
 Marzo 2022
