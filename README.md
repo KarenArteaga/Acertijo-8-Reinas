@@ -7,6 +7,7 @@ Marzo 2022
 
 ## Tabla de contenidos
 * [Problema de las ocho reinas](#info)
+* [Especificaciones de la solución] (#espec)
 * [Funcionalidades](#func)
 * [Documentación para replicar](#docum)
 * [Contacto](#contacto)
@@ -15,6 +16,9 @@ Marzo 2022
 
 ## Problema de las ocho reinas <a name="info"></a> 
 El acertijo de las ocho reinas tiene como objetivo acomodar ocho reinas en un tablero de ajedrez de manera que no se amenacen entre ellas. Esta propuesta es un caso especial del problema de las N Reinas, planteado por Franz Nanuck en 1850. El algoritmo utilizado como solución permite que el usuario condicione al programa al posicionar a la primera reina en un lugar específico del tablero. Con el uso conjuntos y otros conocimientos de la materia Estructura de Datos, el algoritmo encuentra la posición de las siete reinas restantes y las muestra en una interfaz gráfica de usuario.  
+
+
+## Especificaciones de la solución <a name="info"></a> 
 
 
 ## Funcionalidades <a name="func"></a> 
